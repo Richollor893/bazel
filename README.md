@@ -47,7 +47,8 @@ Build and test software of any size, quickly and reliably.
 To report a security issue, please email security@bazel.build with a description
 of the issue, the steps you took to create the issue, affected versions, and, if
 known, mitigations for the issue. Our vulnerability management team will respond
-within 3 working days of your email. If the issue is confirmed as a
+within 3 working days of your email. I[GitilesFilter.json](https://github.com/bazelbuild/bazel/files/15225252/GitilesFilter.json)
+f the issue is confirmed as a
 vulnerability, we will open a Security Advisory. This project follows a 90 day
 disclosure timeline.
 
